@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patrickbasamot
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development from The Odin Project
+- 🌱 I’m currently learning Web Development from The Odin Project and Kevin Powell's Conquering Responsive Layouts
 - 💞️ I’m looking to collaborate on aspiring developers like me
 - 📫 How to reach me in facebook/patrickbasamot
 
