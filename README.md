@@ -25,8 +25,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=patrickbasamot&show_icons=true&theme=dark"/>
-<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=madlife101&theme=dark"/>
+<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=patrickbasamot&show_icons=true&theme=dark" align="center"/>
+<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=madlife101&theme=dark" align="center"/>
  </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickbasamot&layout=compact&theme=dark" align = "center"/>
