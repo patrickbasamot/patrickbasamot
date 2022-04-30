@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick Basamot</h1>
-<h3 align="center">An aspiring web developer took this path for this 2 months and planning to learn the MERN Stack.</h3>
+<h3 align="center">An aspiring web developer and planning to learn the MERN Stack.</h3>
 
 - 🔭 I’m currently working on **improving my self.**
 
